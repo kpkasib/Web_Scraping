@@ -1,3 +1,6 @@
-Web_Scraping
-"I've created this repository to learn web scraping, share my progress, and invite others to teach and learn from it. Join me on this journey!"
-zameen.com is a real estate marketplace based in Pakistan. 
+# Web Scraping With Python
+
+I have created this web scraping repository to share what I have learned and provide an opportunity for others to learn from my experiences. By showcasing my work, it allows others to identify any mistakes I may have made and learn from them.
+---------------------------------------------------------------------------------------------------------------------------------------------
+### List of Websites that I scraped (codes are provided in the folders respect to their names).
+
